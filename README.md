@@ -4,6 +4,8 @@ In this challenge, I utilized HTML, CSS, and JavaScript to develop a code quiz a
 
 I initially had some difficulties putting it together, but through persistent research, I made multiple HTML, CSS, and JavaScript files, and linked them together.
 
+Please see deployed link: https://jolly-spence-3c2590.netlify.app/highscores.html
+
 Please see attached photos of the final app version.
 
 
